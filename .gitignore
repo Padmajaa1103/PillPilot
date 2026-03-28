@@ -1,0 +1,25 @@
+# Configuration files with sensitive data
+config/db.php
+
+# Logs
+logs/*.log
+
+# Environment files
+.env
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+vendor/
+node_modules/
+
+# Qoder specific
+.qoder/
